@@ -7,3 +7,4 @@ langchain-community
 rich
 tqdm
 psycopg2-binary
+sentence-transformers
