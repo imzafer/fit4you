@@ -1,3 +1,8 @@
 streamlit
 reportlab
 chromadb
+langgraph
+langchain-groq
+langchain-community
+rich
+tqdm
